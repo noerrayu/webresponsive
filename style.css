@@ -64,3 +64,28 @@ h1 {
     float: left;
     margin-top: 30px;
 }
+
+.btn {
+    border: 1px solid #837BE4;
+    padding: 10px 30px;
+    color: #837BE4;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-right: 20px;
+
+}
+
+.button-awesome {
+    margin-top: 40px;
+}
+
+.btn-half {
+    background-color: #837BE4;
+    color: white;
+}
+
+.btn-full:hover {
+    background-color: #837BE4;
+    color: white;
+    transition: all 0.5s ease-in;
+}
